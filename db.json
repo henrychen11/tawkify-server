@@ -2,6 +2,21 @@
   "users":[
     {
       "id": 0,
+      "gender": "male",
+      "seeking": "female",
+      "location": "",
+      "month": "",
+      "day": "",
+      "year": "",
+      "height": "",
+      "heightFactor": false,
+      "occupation": "",
+      "income": "",
+      "incomeFactor": false,
+      "interests": ""
+    },
+    {
+      "id": 1,
       "gender": "",
       "seeking": "",
       "location": "",
@@ -14,6 +29,21 @@
       "income": "",
       "incomeFactor": false,
       "interests": ""
-    }
+    },
+    {
+      "id": 2,
+      "gender": "",
+      "seeking": "",
+      "location": "",
+      "month": "",
+      "day": "",
+      "year": "",
+      "height": "",
+      "heightFactor": false,
+      "occupation": "",
+      "income": "",
+      "incomeFactor": false,
+      "interests": ""
+    },
   ]
 }
