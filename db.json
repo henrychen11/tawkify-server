@@ -1,9 +1,19 @@
 {
   "users":[
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": 0,
+      "gender": "",
+      "seeking": "",
+      "location": "",
+      "month": "",
+      "day": "",
+      "year": "",
+      "height": "",
+      "heightFactor": false,
+      "occupation": "",
+      "income": "",
+      "incomeFactor": false,
+      "interests": ""
     }
   ]
 }
