@@ -11,7 +11,7 @@
       "height": "5 ft 4 in",
       "heightFactor": true,
       "occupation": "Doctor",
-      "income": "60,000-$80,000",
+      "income": "$60,000-$80,000",
       "incomeFactor": false,
       "interests": "Cooking"
     },
@@ -26,7 +26,7 @@
       "height": "6 ft 1 in",
       "heightFactor": false,
       "occupation": "Chef",
-      "income": "60,000-$80,000",
+      "income": "$60,000-$80,000",
       "incomeFactor": true,
       "interests": "Basketball"
     },
@@ -41,7 +41,7 @@
       "height": "5 ft 8 in",
       "heightFactor": true,
       "occupation": "Software Enginneer",
-      "income": "60,000-$80,000",
+      "income": "$60,000-$80,000",
       "incomeFactor": true,
       "interests": "Badminton"
     }
